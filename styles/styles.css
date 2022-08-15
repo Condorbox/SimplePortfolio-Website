@@ -338,23 +338,29 @@ section {
   background-color: var(--color-secondary);
   transition: all 0.4s ease-in-out;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
+.about-stats .progress-bars .progress-bar .progress-con .progress .unity {
   width: 80%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 95%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .java {
+  width: 65%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 75%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
+.about-stats .progress-bars .progress-bar .progress-con .progress .c-sharp {
   width: 60%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 87%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .cpp {
+  width: 50%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 70%;
+  width: 30%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .unreal-engine {
+  width: 40%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .postgre-sql {
+  width: 30%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .blender {
+  width: 20%;
 }
 
 .stat-title {

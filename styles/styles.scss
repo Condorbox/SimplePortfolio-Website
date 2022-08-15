@@ -330,23 +330,29 @@ section{
                         transition: all .4s ease-in-out;
                     }
 
-                    .html {
+                    .unity {
                         width: 80%;
                     }
-                    .css {
-                        width: 95%;
+                    .java {
+                        width: 65%;
                     }
-                    .js {
-                        width: 75%;
-                    }
-                    .react {
+                    .c-sharp {
                         width: 60%;
                     }
-                    .node {
-                        width: 87%;
+                    .cpp {
+                        width: 50%;
                     }
                     .python {
-                        width: 70%;
+                        width: 30%;
+                    }
+                    .unreal-engine {
+                        width: 40%;
+                    }
+                    .postgre-sql {
+                        width: 30%;
+                    }
+                    .blender {
+                        width: 20%;
                     }
                 }
             }
